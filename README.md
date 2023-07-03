@@ -1,2 +1,2 @@
 # malarial-detection
- Malaria detection using the cell images taken under microscope
+ Malaria detection using the cell images taken under microscope  
